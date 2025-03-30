@@ -1,0 +1,363 @@
+:root {
+  --color-dark: #ffffff;
+  /* Dark background */
+  --color-light: #ffffff;
+  /* Light text */
+  --color-primary: #6c5ce7;
+  /* Modern purple for primary actions */
+  --color-secondary: #520b5f;
+  /* Fresh green for secondary elements */
+  --color-accent: #ff7675;
+  /* Coral accent for highlights */
+  --color-warning: #e74c3c;
+  /* Bright red for warnings */
+  --color-background: #1e1e1e;
+  /* Dark background for containers */
+  --shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  /* Deeper shadow for depth */
+  --transition: 0.3s ease-in-out;
+  /* Smooth transitions */
+}
+
+/* Dark mode */
+.dark-mode {
+  --color-dark: #ffffff;
+  /* Light background */
+  --color-light: #121212;
+  /* Dark text */
+  --color-background: #f5f5f5;
+  /* Light background for containers */
+}
+
+body {
+  background-color: var(--color-dark);
+  font-family: 'Arial', sans-serif;
+  color: var(--color-light);
+  line-height: 1.6;
+  transition: background-color var(--transition), color var(--transition);
+}
+
+/* Dark mode toggle button */
+.dark-mode-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: var(--color-primary);
+  color: var(--color-light);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color var(--transition), transform var(--transition);
+}
+
+.dark-mode-toggle:hover {
+  background-color: var(--color-accent);
+  transform: scale(1.05);
+}
+
+/* Rest of your CSS remains the same */
+.image-text {
+  background: linear-gradient(to right, var(--color-primary), var(--color-secondary));
+  padding: 1.25rem 0;
+  border-top: 1px solid var(--color-light);
+  margin-bottom: 1.875rem;
+}
+
+.image-text .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25rem;
+  width: 100%;
+  margin: auto;
+}
+
+.image-text p {
+  color: var(--color-light);
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+.image-text .filter-search {
+  display: flex;
+  gap: 1.25rem;
+}
+
+.image-text input {
+  display: none;
+}
+
+.image-text label {
+  padding: 0.875rem 1.375rem;
+  border: 2px solid var(--color-primary);
+  color: var(--color-primary);
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  transition: var(--transition);
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+.image-text label:hover {
+  background-color: var(--color-primary);
+  color: var(--color-light);
+  transform: scale(1.05) rotate(3deg);
+}
+
+.image-text label::before {
+  content: "";
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  border: 2px solid var(--color-primary);
+  margin-right: 0.625rem;
+}
+
+.image-text input:checked+label {
+  background-color: var(--color-primary);
+  color: var(--color-light);
+}
+
+.image-text input:checked+label::before {
+  width: 0.625rem;
+  height: 0.625rem;
+  border: 5px solid var(--color-light);
+}
+
+@media (max-width: 36em) {
+  .image-text .container {
+    flex-direction: column;
+  }
+
+  .image-text p {
+    margin: 0 0 0.9375rem;
+    font-size: 1.75rem;
+  }
+
+  .image-text label {
+    font-size: 1rem;
+  }
+}
+
+.search-image .container {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.25rem;
+  transition: var(--transition);
+}
+
+.search-image .person-img,
+.search-image .result {
+  max-width: 30.5rem;
+  width: 100%;
+  background: var(--color-background);
+  padding: 1.875rem;
+  border-radius: 1.25rem;
+  box-shadow: var(--shadow);
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+
+.search-image .person-img:hover,
+.search-image .result:hover {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+  transform: translateY(-0.3125rem);
+}
+
+@media (max-width: 62em) {
+  .search-image .container {
+    flex-direction: column;
+  }
+
+  .search-image .person-img,
+  .search-image .result {
+    margin: auto;
+    max-width: 25rem;
+  }
+}
+
+.search-image .person-img .img-area,
+.search-image .result .img-area {
+  position: relative;
+  height: 15rem;
+  background: #333;
+  margin-bottom: 1.875rem;
+  border-radius: 0.9375rem;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  transition: transform var(--transition), opacity var(--transition);
+}
+
+.search-image .person-img .img-area:hover,
+.search-image .result .img-area:hover {
+  transform: scale(1.1);
+  opacity: 0.85;
+}
+
+.search-image .person-img .img-area i,
+.search-image .result .img-area i {
+  font-size: 4.375rem;
+  color: var(--color-primary);
+}
+
+.search-image .person-img .img-area img,
+.search-image .result .img-area img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 500px;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.search-image .person-img .select-image,
+.search-image .result .text {
+  display: block;
+  width: 100%;
+  padding: 0.9375rem 0;
+  border-radius: 0.9375rem;
+  background-color: var(--color-secondary);
+  text-transform: capitalize;
+  color: var(--color-light);
+  font-weight: 500;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+  transition: background-color var(--transition), box-shadow var(--transition), transform var(--transition);
+}
+
+.search-image .select-image:hover,
+.search-image .result .text:hover {
+  background-color: var(--color-accent);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transform: scale(1.05);
+}
+
+.search-image .result .text.off {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.search {
+  align-self: center;
+  background: var(--color-secondary);
+  color: var(--color-light);
+  padding: 1.125rem 2.1875rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.75rem;
+  gap: 0.75rem;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.125rem;
+  transition: background-color var(--transition), transform var(--transition);
+  position: relative;
+  overflow: hidden;
+  border: none;
+}
+
+.search:hover {
+  background-color: var(--color-accent);
+  transform: scale(1.05);
+}
+
+.con-loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.625rem;
+  background-color: var(--color-light);
+  width: 15.625rem;
+  padding: 1.5625rem 0;
+  position: fixed;
+  z-index: 120;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.loader {
+  width: 3.125rem;
+  height: 3.125rem;
+  border: 5px solid var(--color-primary);
+  border-top: 5px solid #f3f3f3;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-right: 0.625rem;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 111;
+}
+
+.hide {
+  display: none;
+}
+
+.warning {
+  color: var(--color-warning);
+  font-weight: bold;
+}
+
+/* إظهار الإطار بشكل دائم حول الحقول */
+input,
+textarea,
+.data-box {
+  border: 2px solid var(--color-primary);
+  /* إضافة الإطار */
+  border-radius: 5px;
+  /* الزوايا المدورة */
+  padding: 0.5rem;
+  /* الحشو داخل المربع */
+  background-color: var(--color-background);
+  /* خلفية الحقل */
+  color: var(--color-light);
+  /* لون النص */
+  font-size: 1rem;
+  /* حجم الخط */
+  transition: border-color 0.3s ease-in-out;
+  /* انتقال سلس لتغيير اللون */
+}
+
+/* إزالة تأثير التركيز عند الضغط على الحقل */
+input:focus,
+textarea:focus,
+.data-box:focus {
+  border-color: var(--color-primary);
+  /* الحفاظ على نفس اللون عند التركيز */
+  outline: none;
+  /* إزالة الإطار الافتراضي عند التركيز */
+}
+
+/* التأثيرات عند التفاعل مع الحقول */
+input:hover,
+textarea:hover,
+.data-box:hover {
+  border-color: var(--color-accent);
+  /* تغيير اللون عند التمرير */
+}

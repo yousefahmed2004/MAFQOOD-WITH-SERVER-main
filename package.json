@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1",
+    "php-express": "^0.0.3"
+  },
+  "name": "mafqood-with-server-main",
+  "version": "1.0.0",
+  "description": "Find Missing Child Project AI Website Name: \"Mafqood\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

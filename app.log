@@ -1,0 +1,774 @@
+2024-12-23 23:24:22,287 - DEBUG - Creating converter from 3 to 5
+2024-12-23 23:24:22,631 - INFO -  * Restarting with stat
+2024-12-23 23:24:26,028 - DEBUG - Creating converter from 3 to 5
+2024-12-23 23:24:26,133 - WARNING -  * Debugger is active!
+2024-12-23 23:24:26,141 - INFO -  * Debugger PIN: 703-285-473
+2024-12-23 23:24:32,873 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-12-23 23:24:37,051 - DEBUG - Received file: D_laragon_www_fmp_uploads_173498907716965593476769d51508261.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_173498907716965593476769d51508261.jpg
+2024-12-23 23:24:37,105 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-23 23:24:37,389 - DEBUG - Number of images in database: 6
+2024-12-23 23:24:37,391 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-23 23:24:37,391 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-23 23:24:37,392 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-23 23:24:37,392 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-23 23:24:37,392 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-23 23:24:37,392 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-23 23:24:37,453 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.3090304732322693
+2024-12-23 23:24:37,453 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-23 23:24:37,511 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.38827481865882874
+2024-12-23 23:24:37,511 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-23 23:24:37,571 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.5494645833969116
+2024-12-23 23:24:37,572 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-23 23:24:37,629 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.3829100430011749
+2024-12-23 23:24:37,630 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-23 23:24:37,687 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.39588508009910583
+2024-12-23 23:24:37,687 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-23 23:24:37,767 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.0
+2024-12-23 23:24:37,846 - INFO - 127.0.0.1 - - [23/Dec/2024 23:24:37] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:19:45,212 - DEBUG - Creating converter from 3 to 5
+2024-12-25 01:19:45,444 - INFO -  * Restarting with stat
+2024-12-25 01:19:49,230 - DEBUG - Creating converter from 3 to 5
+2024-12-25 01:19:49,327 - WARNING -  * Debugger is active!
+2024-12-25 01:19:49,334 - INFO -  * Debugger PIN: 703-285-473
+2024-12-25 01:19:56,142 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-12-25 01:19:56,483 - DEBUG - Received file: D_laragon_www_fmp_uploads_1735082394773556210676b419ae5856.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1735082394773556210676b419ae5856.jpg
+2024-12-25 01:19:56,610 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:19:56,902 - DEBUG - Number of images in database: 6
+2024-12-25 01:19:56,903 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:19:56,904 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:19:56,905 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:19:56,905 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:19:56,905 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:19:56,905 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:19:56,961 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.34377744793891907
+2024-12-25 01:19:56,962 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:19:57,018 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.3646772801876068
+2024-12-25 01:19:57,018 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:19:57,076 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.34578561782836914
+2024-12-25 01:19:57,076 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:19:57,127 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.2830297350883484
+2024-12-25 01:19:57,128 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:19:57,180 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.39439260959625244
+2024-12-25 01:19:57,180 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:19:57,247 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.4910086691379547
+2024-12-25 01:19:57,327 - INFO - 127.0.0.1 - - [25/Dec/2024 01:19:57] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:20:46,786 - INFO -  * Detected change in 'd:\\laragon\\www\\fmp\\app.py', reloading
+2024-12-25 01:20:47,484 - INFO -  * Restarting with stat
+2024-12-25 01:20:50,585 - DEBUG - Creating converter from 3 to 5
+2024-12-25 01:20:50,664 - WARNING -  * Debugger is active!
+2024-12-25 01:20:50,670 - INFO -  * Debugger PIN: 703-285-473
+2024-12-25 01:20:53,506 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-12-25 01:20:58,071 - DEBUG - Received file: D_laragon_www_fmp_uploads_17350824582144126818676b41da0f62c.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17350824582144126818676b41da0f62c.jpg
+2024-12-25 01:20:58,098 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:20:58,276 - DEBUG - Number of images in database: 6
+2024-12-25 01:20:58,276 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:20:58,277 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:20:58,277 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:20:58,277 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:20:58,277 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:20:58,277 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:20:58,351 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.3392776548862457
+2024-12-25 01:20:58,353 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:20:58,420 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.21784134209156036
+2024-12-25 01:20:58,421 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:20:58,483 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.3034680187702179
+2024-12-25 01:20:58,484 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:20:58,540 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.31963950395584106
+2024-12-25 01:20:58,540 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:20:58,593 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.35406625270843506
+2024-12-25 01:20:58,593 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:20:58,662 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.3012915551662445
+2024-12-25 01:20:58,736 - INFO - 127.0.0.1 - - [25/Dec/2024 01:20:58] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:20:59,490 - DEBUG - Received file: D_laragon_www_fmp_uploads_1735082459830005176676b41db6f4b8.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1735082459830005176676b41db6f4b8.jpg
+2024-12-25 01:20:59,504 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:20:59,581 - DEBUG - Number of images in database: 6
+2024-12-25 01:20:59,582 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:20:59,582 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:20:59,582 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:20:59,582 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:20:59,582 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:20:59,582 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:20:59,646 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.3392776548862457
+2024-12-25 01:20:59,647 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:20:59,704 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.21784134209156036
+2024-12-25 01:20:59,705 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:20:59,770 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.3034680187702179
+2024-12-25 01:20:59,770 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:20:59,828 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.31963950395584106
+2024-12-25 01:20:59,828 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:20:59,884 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.35406625270843506
+2024-12-25 01:20:59,884 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:20:59,956 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.3012915551662445
+2024-12-25 01:21:00,015 - INFO - 127.0.0.1 - - [25/Dec/2024 01:21:00] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:21:02,795 - DEBUG - Received file: D_laragon_www_fmp_uploads_1735082462129944691676b41deba33f.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1735082462129944691676b41deba33f.jpg
+2024-12-25 01:21:02,807 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:21:02,865 - DEBUG - Number of images in database: 6
+2024-12-25 01:21:02,866 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:21:02,866 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:21:02,866 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:21:02,866 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:21:02,866 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:21:02,866 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:21:02,937 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.3392776548862457
+2024-12-25 01:21:02,938 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:21:03,004 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.21784134209156036
+2024-12-25 01:21:03,004 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:21:03,069 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.3034680187702179
+2024-12-25 01:21:03,069 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:21:03,126 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.31963950395584106
+2024-12-25 01:21:03,126 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:21:03,177 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.35406625270843506
+2024-12-25 01:21:03,178 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:21:03,251 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.3012915551662445
+2024-12-25 01:21:03,339 - INFO - 127.0.0.1 - - [25/Dec/2024 01:21:03] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:21:09,539 - INFO -  * Detected change in 'd:\\laragon\\www\\fmp\\app.py', reloading
+2024-12-25 01:21:10,106 - INFO -  * Restarting with stat
+2024-12-25 01:21:13,948 - DEBUG - Creating converter from 3 to 5
+2024-12-25 01:21:14,040 - WARNING -  * Debugger is active!
+2024-12-25 01:21:14,045 - INFO -  * Debugger PIN: 703-285-473
+2024-12-25 01:21:16,860 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-12-25 01:21:34,521 - DEBUG - Received file: D_laragon_www_fmp_uploads_17350824941526598508676b41fe79d26.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17350824941526598508676b41fe79d26.jpg
+2024-12-25 01:21:34,549 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:21:34,713 - DEBUG - Number of images in database: 6
+2024-12-25 01:21:34,715 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:21:34,715 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:21:34,715 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:21:34,715 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:21:34,715 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:21:34,715 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:21:34,775 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.3047522306442261
+2024-12-25 01:21:34,775 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:21:34,832 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.2773366868495941
+2024-12-25 01:21:34,832 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:21:34,897 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.2917952537536621
+2024-12-25 01:21:34,897 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:21:34,952 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.2505379617214203
+2024-12-25 01:21:34,952 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:21:35,008 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.2802187502384186
+2024-12-25 01:21:35,010 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:21:35,117 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.312322199344635
+2024-12-25 01:21:35,208 - INFO - 127.0.0.1 - - [25/Dec/2024 01:21:35] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:21:36,021 - DEBUG - Received file: D_laragon_www_fmp_uploads_17350824962128399379676b420001c0a.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17350824962128399379676b420001c0a.jpg
+2024-12-25 01:21:36,038 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:21:36,113 - DEBUG - Number of images in database: 6
+2024-12-25 01:21:36,114 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:21:36,115 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:21:36,115 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:21:36,115 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:21:36,115 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:21:36,115 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:21:36,177 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.3047522306442261
+2024-12-25 01:21:36,177 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:21:36,237 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.2773366868495941
+2024-12-25 01:21:36,238 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:21:36,302 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.2917952537536621
+2024-12-25 01:21:36,302 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:21:36,359 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.2505379617214203
+2024-12-25 01:21:36,360 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:21:36,414 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.2802187502384186
+2024-12-25 01:21:36,414 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:21:36,484 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.312322199344635
+2024-12-25 01:21:36,567 - INFO - 127.0.0.1 - - [25/Dec/2024 01:21:36] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:22:03,657 - INFO -  * Detected change in 'd:\\laragon\\www\\fmp\\app.py', reloading
+2024-12-25 01:22:04,106 - INFO -  * Restarting with stat
+2024-12-25 01:22:46,424 - DEBUG - Creating converter from 3 to 5
+2024-12-25 01:22:46,522 - INFO -  * Restarting with stat
+2024-12-25 01:22:49,613 - DEBUG - Creating converter from 3 to 5
+2024-12-25 01:22:49,692 - WARNING -  * Debugger is active!
+2024-12-25 01:22:49,697 - INFO -  * Debugger PIN: 703-285-473
+2024-12-25 01:22:52,704 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-12-25 01:22:53,039 - DEBUG - Received file: D_laragon_www_fmp_uploads_17350825728564711676b424c7f442.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17350825728564711676b424c7f442.jpg
+2024-12-25 01:22:53,063 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:22:53,222 - DEBUG - Number of images in database: 6
+2024-12-25 01:22:53,223 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:22:53,223 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:22:53,224 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:22:53,224 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:22:53,224 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:22:53,224 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:22:53,280 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.39185938239097595
+2024-12-25 01:22:53,280 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:22:53,332 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.4204508364200592
+2024-12-25 01:22:53,332 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:22:53,390 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.21812622249126434
+2024-12-25 01:22:53,390 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:22:53,440 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.4095168709754944
+2024-12-25 01:22:53,440 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:22:53,489 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.47052520513534546
+2024-12-25 01:22:53,489 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:22:53,557 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.4727207124233246
+2024-12-25 01:22:53,626 - INFO - 127.0.0.1 - - [25/Dec/2024 01:22:53] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:23:05,515 - DEBUG - Received file: D_laragon_www_fmp_uploads_17350825852129099469676b425979efc.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17350825852129099469676b425979efc.jpg
+2024-12-25 01:23:05,527 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:23:05,597 - DEBUG - Number of images in database: 6
+2024-12-25 01:23:05,597 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:23:05,598 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:23:05,598 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:23:05,598 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:23:05,598 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:23:05,598 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:23:05,658 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.4317755401134491
+2024-12-25 01:23:05,658 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:23:05,715 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.47152191400527954
+2024-12-25 01:23:05,716 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:23:05,780 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.39569535851478577
+2024-12-25 01:23:05,780 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:23:05,846 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.5125665068626404
+2024-12-25 01:23:05,847 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:23:05,906 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.0
+2024-12-25 01:23:05,906 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:23:05,987 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.5906085968017578
+2024-12-25 01:23:06,081 - INFO - 127.0.0.1 - - [25/Dec/2024 01:23:06] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:23:10,562 - DEBUG - Received file: D_laragon_www_fmp_uploads_1735082590101384892676b425e86af9.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1735082590101384892676b425e86af9.jpg
+2024-12-25 01:23:10,574 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:23:10,642 - DEBUG - Number of images in database: 6
+2024-12-25 01:23:10,642 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:23:10,642 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:23:10,643 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:23:10,643 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:23:10,643 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:23:10,643 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:23:10,722 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.31351712346076965
+2024-12-25 01:23:10,722 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:23:10,785 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.3525488078594208
+2024-12-25 01:23:10,786 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:23:10,848 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.4490572512149811
+2024-12-25 01:23:10,849 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:23:10,902 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.2751562297344208
+2024-12-25 01:23:10,902 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:23:10,953 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.5027334094047546
+2024-12-25 01:23:10,953 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:23:11,030 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.5573000311851501
+2024-12-25 01:23:11,085 - INFO - 127.0.0.1 - - [25/Dec/2024 01:23:11] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:23:15,870 - DEBUG - Received file: D_laragon_www_fmp_uploads_17350825951484093390676b4263d1ac4.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17350825951484093390676b4263d1ac4.jpg
+2024-12-25 01:23:15,881 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:23:15,946 - DEBUG - Number of images in database: 6
+2024-12-25 01:23:15,946 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:23:15,947 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:23:15,947 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:23:15,947 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:23:15,947 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:23:15,947 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:23:16,004 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.332756370306015
+2024-12-25 01:23:16,004 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:23:16,069 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.3416088819503784
+2024-12-25 01:23:16,069 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:23:16,143 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.44202864170074463
+2024-12-25 01:23:16,144 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:23:16,212 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.3191596269607544
+2024-12-25 01:23:16,212 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:23:16,271 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.5004088282585144
+2024-12-25 01:23:16,272 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:23:16,342 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.4990203380584717
+2024-12-25 01:23:16,493 - INFO - 127.0.0.1 - - [25/Dec/2024 01:23:16] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:23:25,549 - DEBUG - Received file: D_laragon_www_fmp_uploads_17350826051263499357676b426d7f2b5.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17350826051263499357676b426d7f2b5.jpg
+2024-12-25 01:23:25,577 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:23:25,629 - DEBUG - Number of images in database: 6
+2024-12-25 01:23:25,630 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:23:25,630 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:23:25,630 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:23:25,630 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:23:25,630 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:23:25,630 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:23:25,688 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.4209306538105011
+2024-12-25 01:23:25,688 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:23:25,754 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.48424890637397766
+2024-12-25 01:23:25,756 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:23:25,819 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.4884422719478607
+2024-12-25 01:23:25,820 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:23:25,873 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.40889862179756165
+2024-12-25 01:23:25,873 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:23:25,925 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.6313947439193726
+2024-12-25 01:23:25,925 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:23:25,992 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.6020563840866089
+2024-12-25 01:23:26,077 - INFO - 127.0.0.1 - - [25/Dec/2024 01:23:26] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:23:27,567 - DEBUG - Received file: D_laragon_www_fmp_uploads_1735082607131168654676b426f88549.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1735082607131168654676b426f88549.jpg
+2024-12-25 01:23:27,596 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:23:27,657 - DEBUG - Number of images in database: 6
+2024-12-25 01:23:27,657 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:23:27,658 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:23:27,658 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:23:27,658 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:23:27,658 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:23:27,658 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:23:27,719 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.4209306538105011
+2024-12-25 01:23:27,719 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:23:27,779 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.48424890637397766
+2024-12-25 01:23:27,779 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:23:27,840 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.4884422719478607
+2024-12-25 01:23:27,840 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:23:27,896 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.40889862179756165
+2024-12-25 01:23:27,896 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:23:27,952 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.6313947439193726
+2024-12-25 01:23:27,953 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:23:28,026 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.6020563840866089
+2024-12-25 01:23:28,108 - INFO - 127.0.0.1 - - [25/Dec/2024 01:23:28] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:23:41,589 - DEBUG - Received file: D_laragon_www_fmp_uploads_17350826211907629144676b427d8909d.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17350826211907629144676b427d8909d.jpg
+2024-12-25 01:23:41,597 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:23:41,646 - DEBUG - Number of images in database: 6
+2024-12-25 01:23:41,646 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:23:41,647 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:23:41,647 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:23:41,647 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:23:41,647 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:23:41,647 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:23:41,702 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.6173760294914246
+2024-12-25 01:23:41,703 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:23:41,764 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.568236768245697
+2024-12-25 01:23:41,764 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:23:41,831 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.5462548136711121
+2024-12-25 01:23:41,831 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:23:41,897 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.5976501107215881
+2024-12-25 01:23:41,897 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:23:41,952 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.474734902381897
+2024-12-25 01:23:41,952 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:23:42,020 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.5731477737426758
+2024-12-25 01:23:42,104 - INFO - 127.0.0.1 - - [25/Dec/2024 01:23:42] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:23:47,209 - DEBUG - Received file: D_laragon_www_fmp_uploads_17350826271539241804676b42832fcd4.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17350826271539241804676b42832fcd4.jpg
+2024-12-25 01:23:47,229 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:23:47,293 - DEBUG - Number of images in database: 6
+2024-12-25 01:23:47,293 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:23:47,295 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:23:47,295 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:23:47,295 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:23:47,295 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:23:47,295 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:23:47,357 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.4556969404220581
+2024-12-25 01:23:47,358 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:23:47,412 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.43419745564460754
+2024-12-25 01:23:47,413 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:23:47,477 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.40764927864074707
+2024-12-25 01:23:47,477 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:23:47,532 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.43641597032546997
+2024-12-25 01:23:47,533 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:23:47,586 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.4723927676677704
+2024-12-25 01:23:47,587 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:23:47,656 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.42010095715522766
+2024-12-25 01:23:47,727 - INFO - 127.0.0.1 - - [25/Dec/2024 01:23:47] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:23:51,934 - DEBUG - Received file: D_laragon_www_fmp_uploads_17350826312033923638676b4287dfaf2.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17350826312033923638676b4287dfaf2.jpg
+2024-12-25 01:23:51,953 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:23:52,007 - DEBUG - Number of images in database: 6
+2024-12-25 01:23:52,008 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:23:52,008 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:23:52,008 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:23:52,008 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:23:52,008 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:23:52,008 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:23:52,069 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.4556969404220581
+2024-12-25 01:23:52,070 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:23:52,130 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.43419745564460754
+2024-12-25 01:23:52,131 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:23:52,200 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.40764927864074707
+2024-12-25 01:23:52,200 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:23:52,253 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.43641597032546997
+2024-12-25 01:23:52,254 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:23:52,304 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.4723927676677704
+2024-12-25 01:23:52,304 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:23:52,374 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.42010095715522766
+2024-12-25 01:23:52,518 - INFO - 127.0.0.1 - - [25/Dec/2024 01:23:52] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:23:58,768 - DEBUG - Received file: D_laragon_www_fmp_uploads_1735082638533040466676b428eb93e6.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1735082638533040466676b428eb93e6.jpg
+2024-12-25 01:23:58,797 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:23:58,874 - DEBUG - Number of images in database: 6
+2024-12-25 01:23:58,874 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:23:58,874 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:23:58,874 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:23:58,874 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:23:58,874 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:23:58,874 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:23:58,928 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.43877479434013367
+2024-12-25 01:23:58,929 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:23:58,988 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.4501701295375824
+2024-12-25 01:23:58,988 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:23:59,069 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.4534517526626587
+2024-12-25 01:23:59,069 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:23:59,135 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.4510062634944916
+2024-12-25 01:23:59,136 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:23:59,192 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.5906085968017578
+2024-12-25 01:23:59,192 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:23:59,258 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.0
+2024-12-25 01:23:59,327 - INFO - 127.0.0.1 - - [25/Dec/2024 01:23:59] "POST /test HTTP/1.1" 200 -
+2024-12-25 01:24:05,804 - DEBUG - Received file: D_laragon_www_fmp_uploads_1735082645884703847676b4295c20cf.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1735082645884703847676b4295c20cf.jpg
+2024-12-25 01:24:05,812 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2024-12-25 01:24:05,870 - DEBUG - Number of images in database: 6
+2024-12-25 01:24:05,871 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2024-12-25 01:24:05,872 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-25 01:24:05,872 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-25 01:24:05,872 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-25 01:24:05,872 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-25 01:24:05,872 - DEBUG - STREAM b'IDAT' 91 65445
+2024-12-25 01:24:05,930 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.31351712346076965
+2024-12-25 01:24:05,931 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2024-12-25 01:24:05,989 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.3525488078594208
+2024-12-25 01:24:05,990 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2024-12-25 01:24:06,072 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.4490572512149811
+2024-12-25 01:24:06,073 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2024-12-25 01:24:06,139 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.2751562297344208
+2024-12-25 01:24:06,139 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2024-12-25 01:24:06,200 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.5027334094047546
+2024-12-25 01:24:06,200 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2024-12-25 01:24:06,275 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.5573000311851501
+2024-12-25 01:24:06,354 - INFO - 127.0.0.1 - - [25/Dec/2024 01:24:06] "POST /test HTTP/1.1" 200 -
+2025-01-09 03:34:50,631 - DEBUG - Creating converter from 3 to 5
+2025-01-09 03:34:51,010 - INFO -  * Restarting with stat
+2025-01-09 03:34:54,232 - DEBUG - Creating converter from 3 to 5
+2025-01-09 03:34:54,329 - WARNING -  * Debugger is active!
+2025-01-09 03:34:54,335 - INFO -  * Debugger PIN: 703-285-473
+2025-01-09 03:35:00,176 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-01-09 03:35:02,224 - DEBUG - Received file: D_laragon_www_fmp_uploads_1736386502576055399677f27c633966.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1736386502576055399677f27c633966.jpg
+2025-01-09 03:35:02,392 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-09 03:35:02,694 - DEBUG - Number of images in database: 6
+2025-01-09 03:35:02,695 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-09 03:35:02,695 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 03:35:02,696 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 03:35:02,696 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 03:35:02,696 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-09 03:35:02,696 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-09 03:35:02,753 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.4258945882320404
+2025-01-09 03:35:02,753 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-09 03:35:02,805 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.36306124925613403
+2025-01-09 03:35:02,805 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-09 03:35:02,866 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.4395564794540405
+2025-01-09 03:35:02,866 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-09 03:35:02,925 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.35300323367118835
+2025-01-09 03:35:02,925 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-09 03:35:02,980 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.4257669150829315
+2025-01-09 03:35:02,980 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-09 03:35:03,049 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.0
+2025-01-09 03:35:03,132 - INFO - 127.0.0.1 - - [09/Jan/2025 03:35:03] "POST /test HTTP/1.1" 200 -
+2025-01-09 03:35:11,545 - DEBUG - Received file: D_laragon_www_fmp_uploads_1736386511861366060677f27cf81ff7.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1736386511861366060677f27cf81ff7.jpg
+2025-01-09 03:35:11,563 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-09 03:35:11,623 - DEBUG - Number of images in database: 6
+2025-01-09 03:35:11,623 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-09 03:35:11,623 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 03:35:11,624 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 03:35:11,624 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 03:35:11,624 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-09 03:35:11,624 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-09 03:35:11,686 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.3584505319595337
+2025-01-09 03:35:11,686 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-09 03:35:11,748 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.3460697829723358
+2025-01-09 03:35:11,748 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-09 03:35:11,812 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.2704547643661499
+2025-01-09 03:35:11,813 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-09 03:35:11,875 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.38320037722587585
+2025-01-09 03:35:11,875 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-09 03:35:11,935 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.35047534108161926
+2025-01-09 03:35:11,935 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-09 03:35:12,016 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.4871656894683838
+2025-01-09 03:35:12,092 - INFO - 127.0.0.1 - - [09/Jan/2025 03:35:12] "POST /test HTTP/1.1" 200 -
+2025-01-09 03:35:28,265 - DEBUG - Received file: D_laragon_www_fmp_uploads_1736386528967678884677f27e03e0e7.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1736386528967678884677f27e03e0e7.jpg
+2025-01-09 03:35:28,280 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-09 03:35:28,341 - DEBUG - Number of images in database: 6
+2025-01-09 03:35:28,342 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-09 03:35:28,342 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 03:35:28,342 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 03:35:28,342 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 03:35:28,342 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-09 03:35:28,342 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-09 03:35:28,402 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.3656861186027527
+2025-01-09 03:35:28,402 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-09 03:35:28,480 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.39122167229652405
+2025-01-09 03:35:28,480 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-09 03:35:28,550 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.26395419239997864
+2025-01-09 03:35:28,551 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-09 03:35:28,612 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.3833598494529724
+2025-01-09 03:35:28,612 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-09 03:35:28,664 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.38423576951026917
+2025-01-09 03:35:28,664 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-09 03:35:28,731 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.45335155725479126
+2025-01-09 03:35:28,823 - INFO - 127.0.0.1 - - [09/Jan/2025 03:35:28] "POST /test HTTP/1.1" 200 -
+2025-01-09 03:36:27,095 - DEBUG - Received file: D_laragon_www_fmp_uploads_17363865861801068927677f281aebd5c.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17363865861801068927677f281aebd5c.jpg
+2025-01-09 03:36:27,106 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-09 03:36:27,176 - DEBUG - Number of images in database: 6
+2025-01-09 03:36:27,176 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-09 03:36:27,177 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-09 03:36:27,177 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-09 03:36:27,177 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-09 03:36:27,177 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-09 03:36:27,177 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-09 03:36:27,239 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.2618548572063446
+2025-01-09 03:36:27,240 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-09 03:36:27,296 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.27425509691238403
+2025-01-09 03:36:27,297 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-09 03:36:27,356 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.29103824496269226
+2025-01-09 03:36:27,356 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-09 03:36:27,411 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.2793630361557007
+2025-01-09 03:36:27,412 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-09 03:36:27,467 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.38715481758117676
+2025-01-09 03:36:27,468 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-09 03:36:27,542 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.38281577825546265
+2025-01-09 03:36:27,685 - INFO - 127.0.0.1 - - [09/Jan/2025 03:36:27] "POST /test HTTP/1.1" 200 -
+2025-01-19 22:24:43,819 - DEBUG - Creating converter from 3 to 5
+2025-01-19 22:24:44,202 - INFO -  * Restarting with stat
+2025-01-19 22:24:47,492 - DEBUG - Creating converter from 3 to 5
+2025-01-19 22:24:47,581 - WARNING -  * Debugger is active!
+2025-01-19 22:24:47,587 - INFO -  * Debugger PIN: 703-285-473
+2025-01-19 22:24:53,909 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-01-19 22:29:08,134 - DEBUG - Received file: D_laragon_www_fmp_uploads_1737318548164605256678d60941827e.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1737318548164605256678d60941827e.jpg
+2025-01-19 22:29:08,323 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-19 22:29:08,641 - DEBUG - Number of images in database: 6
+2025-01-19 22:29:08,642 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-19 22:29:08,642 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-19 22:29:08,643 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-19 22:29:08,643 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-19 22:29:08,643 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-19 22:29:08,643 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-19 22:29:08,695 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.25887882709503174
+2025-01-19 22:29:08,695 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-19 22:29:08,754 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.284690797328949
+2025-01-19 22:29:08,755 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-19 22:29:08,812 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.24873864650726318
+2025-01-19 22:29:08,812 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-19 22:29:08,860 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.26579901576042175
+2025-01-19 22:29:08,860 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-19 22:29:08,911 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.3207174837589264
+2025-01-19 22:29:08,911 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-19 22:29:08,977 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.3317740559577942
+2025-01-19 22:29:09,036 - INFO - 127.0.0.1 - - [19/Jan/2025 22:29:09] "POST /test HTTP/1.1" 200 -
+2025-01-19 22:30:57,159 - DEBUG - Received file: D_laragon_www_fmp_uploads_1737318657811636228678d610123eb9.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1737318657811636228678d610123eb9.jpg
+2025-01-19 22:30:57,169 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-19 22:30:57,230 - DEBUG - Number of images in database: 6
+2025-01-19 22:30:57,230 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-19 22:30:57,233 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-19 22:30:57,233 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-19 22:30:57,233 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-19 22:30:57,233 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-19 22:30:57,233 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-19 22:30:57,303 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.18931181728839874
+2025-01-19 22:30:57,304 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-19 22:30:57,369 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.234467551112175
+2025-01-19 22:30:57,370 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-19 22:30:57,454 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.26804178953170776
+2025-01-19 22:30:57,454 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-19 22:30:57,523 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.12644295394420624
+2025-01-19 22:30:57,523 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-19 22:30:57,586 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.24658001959323883
+2025-01-19 22:30:57,586 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-19 22:30:57,652 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.28102314472198486
+2025-01-19 22:30:57,737 - INFO - 127.0.0.1 - - [19/Jan/2025 22:30:57] "POST /test HTTP/1.1" 200 -
+2025-01-19 22:32:23,401 - DEBUG - Received file: D_laragon_www_fmp_uploads_17373187431784477305678d61575b72d.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17373187431784477305678d61575b72d.jpg
+2025-01-19 22:32:23,427 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-19 22:32:23,512 - DEBUG - Number of images in database: 6
+2025-01-19 22:32:23,513 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-19 22:32:23,513 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-19 22:32:23,513 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-19 22:32:23,513 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-19 22:32:23,513 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-19 22:32:23,513 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-19 22:32:23,590 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.2869604527950287
+2025-01-19 22:32:23,590 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-19 22:32:23,649 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.3060474991798401
+2025-01-19 22:32:23,649 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-19 22:32:23,722 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.2516445219516754
+2025-01-19 22:32:23,722 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-19 22:32:23,794 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.31350040435791016
+2025-01-19 22:32:23,795 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-19 22:32:23,854 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.2467058300971985
+2025-01-19 22:32:23,854 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-19 22:32:23,921 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.31276002526283264
+2025-01-19 22:32:23,998 - INFO - 127.0.0.1 - - [19/Jan/2025 22:32:23] "POST /test HTTP/1.1" 200 -
+2025-01-20 09:35:52,612 - DEBUG - Creating converter from 3 to 5
+2025-01-20 09:35:53,991 - INFO -  * Restarting with stat
+2025-01-20 09:36:00,107 - DEBUG - Creating converter from 3 to 5
+2025-01-20 09:36:00,279 - WARNING -  * Debugger is active!
+2025-01-20 09:36:00,299 - INFO -  * Debugger PIN: 703-285-473
+2025-01-20 09:36:23,788 - DEBUG - Creating converter from 3 to 5
+2025-01-20 09:36:23,918 - INFO -  * Restarting with stat
+2025-01-20 09:36:29,215 - DEBUG - Creating converter from 3 to 5
+2025-01-20 09:36:29,337 - WARNING -  * Debugger is active!
+2025-01-20 09:36:29,346 - INFO -  * Debugger PIN: 703-285-473
+2025-01-20 09:36:35,181 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-01-20 09:36:35,949 - DEBUG - Received file: D_laragon_www_fmp_uploads_1737358595906810899678dfd03e2596.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1737358595906810899678dfd03e2596.jpg
+2025-01-20 09:36:36,020 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-20 09:36:36,579 - DEBUG - Number of images in database: 6
+2025-01-20 09:36:36,579 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-20 09:36:36,580 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-20 09:36:36,582 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-20 09:36:36,582 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-20 09:36:36,582 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-20 09:36:36,582 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-20 09:36:36,700 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.23604129254817963
+2025-01-20 09:36:36,701 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-20 09:36:36,814 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.21082399785518646
+2025-01-20 09:36:36,815 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-20 09:36:36,913 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.20931154489517212
+2025-01-20 09:36:36,913 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-20 09:36:37,002 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.25708651542663574
+2025-01-20 09:36:37,003 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-20 09:36:37,109 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.22335422039031982
+2025-01-20 09:36:37,109 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-20 09:36:37,281 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.28561386466026306
+2025-01-20 09:36:37,454 - INFO - 127.0.0.1 - - [20/Jan/2025 09:36:37] "POST /test HTTP/1.1" 200 -
+2025-01-20 09:36:47,588 - DEBUG - Received file: D_laragon_www_fmp_uploads_1737358607738572505678dfd0f8b398.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1737358607738572505678dfd0f8b398.jpg
+2025-01-20 09:36:47,614 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-20 09:36:47,690 - DEBUG - Number of images in database: 6
+2025-01-20 09:36:47,690 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-20 09:36:47,691 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-20 09:36:47,691 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-20 09:36:47,691 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-20 09:36:47,691 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-20 09:36:47,691 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-20 09:36:47,783 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.23604129254817963
+2025-01-20 09:36:47,784 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-20 09:36:47,876 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.21082399785518646
+2025-01-20 09:36:47,877 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-20 09:36:47,972 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.20931154489517212
+2025-01-20 09:36:47,973 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-20 09:36:48,071 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.25708651542663574
+2025-01-20 09:36:48,071 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-20 09:36:48,176 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.22335422039031982
+2025-01-20 09:36:48,177 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-20 09:36:48,309 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.28561386466026306
+2025-01-20 09:36:48,426 - INFO - 127.0.0.1 - - [20/Jan/2025 09:36:48] "POST /test HTTP/1.1" 200 -
+2025-01-20 09:36:59,956 - DEBUG - Received file: D_laragon_www_fmp_uploads_173735861953328089678dfd1be4600.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_173735861953328089678dfd1be4600.jpg
+2025-01-20 09:36:59,971 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-20 09:37:00,151 - DEBUG - Number of images in database: 6
+2025-01-20 09:37:00,153 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-20 09:37:00,154 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-20 09:37:00,154 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-20 09:37:00,154 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-20 09:37:00,155 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-20 09:37:00,155 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-20 09:37:00,339 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.15882620215415955
+2025-01-20 09:37:00,339 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-20 09:37:00,544 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.22713734209537506
+2025-01-20 09:37:00,544 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-20 09:37:00,748 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.2927408814430237
+2025-01-20 09:37:00,749 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-20 09:37:00,927 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.12206198275089264
+2025-01-20 09:37:00,928 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-20 09:37:01,110 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.23352289199829102
+2025-01-20 09:37:01,111 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-20 09:37:01,321 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.2813391089439392
+2025-01-20 09:37:01,565 - INFO - 127.0.0.1 - - [20/Jan/2025 09:37:01] "POST /test HTTP/1.1" 200 -
+2025-01-20 09:46:12,499 - DEBUG - Received file: D_laragon_www_fmp_uploads_17373591721574579768678dff447515c.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17373591721574579768678dff447515c.jpg
+2025-01-20 09:46:12,516 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-20 09:46:12,641 - DEBUG - Number of images in database: 6
+2025-01-20 09:46:12,642 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-20 09:46:12,643 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-20 09:46:12,643 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-20 09:46:12,643 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-20 09:46:12,643 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-20 09:46:12,643 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-20 09:46:12,752 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.15882620215415955
+2025-01-20 09:46:12,752 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-20 09:46:12,864 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.22713734209537506
+2025-01-20 09:46:12,865 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-20 09:46:12,999 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.2927408814430237
+2025-01-20 09:46:13,000 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-20 09:46:13,110 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.12206198275089264
+2025-01-20 09:46:13,110 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-20 09:46:13,209 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.23352289199829102
+2025-01-20 09:46:13,210 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-20 09:46:13,347 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.2813391089439392
+2025-01-20 09:46:13,712 - INFO - 127.0.0.1 - - [20/Jan/2025 09:46:13] "POST /test HTTP/1.1" 200 -
+2025-01-20 10:11:27,954 - DEBUG - Received file: D_laragon_www_fmp_uploads_17373606872122511283678e052fe320c.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_17373606872122511283678e052fe320c.jpg
+2025-01-20 10:11:27,978 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-01-20 10:11:28,182 - DEBUG - Number of images in database: 6
+2025-01-20 10:11:28,183 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-01-20 10:11:28,194 - DEBUG - STREAM b'IHDR' 16 13
+2025-01-20 10:11:28,196 - DEBUG - STREAM b'sRGB' 41 1
+2025-01-20 10:11:28,196 - DEBUG - STREAM b'gAMA' 54 4
+2025-01-20 10:11:28,196 - DEBUG - STREAM b'pHYs' 70 9
+2025-01-20 10:11:28,196 - DEBUG - STREAM b'IDAT' 91 65445
+2025-01-20 10:11:28,383 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.15882620215415955
+2025-01-20 10:11:28,384 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-01-20 10:11:28,580 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.22713734209537506
+2025-01-20 10:11:28,581 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-01-20 10:11:28,790 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.2927408814430237
+2025-01-20 10:11:28,791 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-01-20 10:11:28,978 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.12206198275089264
+2025-01-20 10:11:28,980 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-01-20 10:11:29,200 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.23352289199829102
+2025-01-20 10:11:29,201 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-01-20 10:11:29,451 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.2813391089439392
+2025-01-20 10:11:29,690 - INFO - 127.0.0.1 - - [20/Jan/2025 10:11:29] "POST /test HTTP/1.1" 200 -
+2025-02-25 12:30:31,425 - DEBUG - Creating converter from 3 to 5
+2025-02-25 12:30:31,856 - INFO -  * Restarting with stat
+2025-02-25 12:30:36,123 - DEBUG - Creating converter from 3 to 5
+2025-02-25 12:30:36,243 - WARNING -  * Debugger is active!
+2025-02-25 12:30:36,254 - INFO -  * Debugger PIN: 703-285-473
+2025-02-25 12:30:44,110 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-02-25 12:31:02,154 - DEBUG - Received file: D_laragon_www_fmp_uploads_1740479462160740749567bd9be61fcea.jpg, saved to: D:/laragon/www/fmp/uploads\D_laragon_www_fmp_uploads_1740479462160740749567bd9be61fcea.jpg
+2025-02-25 12:31:02,375 - DEBUG - Preprocessed image array shape: (1, 128, 128, 3)
+2025-02-25 12:31:02,811 - DEBUG - Number of images in database: 6
+2025-02-25 12:31:02,811 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png
+2025-02-25 12:31:02,812 - DEBUG - STREAM b'IHDR' 16 13
+2025-02-25 12:31:02,812 - DEBUG - STREAM b'sRGB' 41 1
+2025-02-25 12:31:02,813 - DEBUG - STREAM b'gAMA' 54 4
+2025-02-25 12:31:02,813 - DEBUG - STREAM b'pHYs' 70 9
+2025-02-25 12:31:02,813 - DEBUG - STREAM b'IDAT' 91 65445
+2025-02-25 12:31:02,903 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\173497401916864280934946111536484d9bd2f874.png: 0.3026939630508423
+2025-02-25 12:31:02,904 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg
+2025-02-25 12:31:02,993 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\17349835651679022891images.jpeg: 0.24328947067260742
+2025-02-25 12:31:02,994 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg
+2025-02-25 12:31:03,094 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734984743WhatsApp Image 2024-12-07 at 19.35.46_30733b56.jpg: 0.21449001133441925
+2025-02-25 12:31:03,095 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734985730images.jpg
+2025-02-25 12:31:03,180 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734985730images.jpg: 0.41958367824554443
+2025-02-25 12:31:03,181 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734986805Untitled.jpg
+2025-02-25 12:31:03,261 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734986805Untitled.jpg: 0.3086695969104767
+2025-02-25 12:31:03,261 - DEBUG - Processing file: D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg
+2025-02-25 12:31:03,357 - DEBUG - Distance between uploaded image and D:/laragon/www/fmp/uploads\1734987038fathi 1.jpg: 0.3167347311973572
+2025-02-25 12:31:03,495 - INFO - 127.0.0.1 - - [25/Feb/2025 12:31:03] "POST /test HTTP/1.1" 200 -
+2025-03-06 23:17:08,084 - DEBUG - Creating converter from 3 to 5
+2025-03-06 23:17:08,500 - INFO -  * Restarting with stat
+2025-03-06 23:17:13,745 - DEBUG - Creating converter from 3 to 5
+2025-03-06 23:17:13,835 - WARNING -  * Debugger is active!
+2025-03-06 23:17:13,843 - INFO -  * Debugger PIN: 703-285-473
+2025-03-06 23:17:20,998 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-06 23:17:24,667 - ERROR - No image file part in the request
+2025-03-06 23:17:24,667 - INFO - 127.0.0.1 - - [06/Mar/2025 23:17:24] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-06 23:17:29,983 - ERROR - No image file part in the request
+2025-03-06 23:17:29,984 - INFO - 127.0.0.1 - - [06/Mar/2025 23:17:29] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-06 23:17:30,595 - ERROR - No image file part in the request
+2025-03-06 23:17:30,596 - INFO - 127.0.0.1 - - [06/Mar/2025 23:17:30] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-06 23:17:31,165 - ERROR - No image file part in the request
+2025-03-06 23:17:31,166 - INFO - 127.0.0.1 - - [06/Mar/2025 23:17:31] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-06 23:21:34,809 - DEBUG - Creating converter from 3 to 5
+2025-03-06 23:21:34,903 - INFO -  * Restarting with stat
+2025-03-06 23:21:41,232 - DEBUG - Creating converter from 3 to 5
+2025-03-06 23:21:41,316 - WARNING -  * Debugger is active!
+2025-03-06 23:21:41,324 - INFO -  * Debugger PIN: 703-285-473
+2025-03-06 23:21:44,500 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-06 23:21:46,583 - ERROR - No image file part in the request
+2025-03-06 23:21:46,584 - INFO - 127.0.0.1 - - [06/Mar/2025 23:21:46] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-06 23:21:47,121 - ERROR - No image file part in the request
+2025-03-06 23:21:47,122 - INFO - 127.0.0.1 - - [06/Mar/2025 23:21:47] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-06 23:21:47,423 - ERROR - No image file part in the request
+2025-03-06 23:21:47,424 - INFO - 127.0.0.1 - - [06/Mar/2025 23:21:47] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-06 23:21:47,559 - ERROR - No image file part in the request
+2025-03-06 23:21:47,560 - INFO - 127.0.0.1 - - [06/Mar/2025 23:21:47] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-06 23:21:47,702 - ERROR - No image file part in the request
+2025-03-06 23:21:47,703 - INFO - 127.0.0.1 - - [06/Mar/2025 23:21:47] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-06 23:21:47,860 - ERROR - No image file part in the request
+2025-03-06 23:21:47,862 - INFO - 127.0.0.1 - - [06/Mar/2025 23:21:47] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-06 23:21:48,028 - ERROR - No image file part in the request
+2025-03-06 23:21:48,029 - INFO - 127.0.0.1 - - [06/Mar/2025 23:21:48] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-11 12:09:22,149 - DEBUG - Creating converter from 3 to 5
+2025-03-11 12:09:23,453 - INFO -  * Restarting with stat
+2025-03-11 12:09:28,105 - DEBUG - Creating converter from 3 to 5
+2025-03-11 12:09:28,228 - WARNING -  * Debugger is active!
+2025-03-11 12:09:28,238 - INFO -  * Debugger PIN: 703-285-473
+2025-03-11 12:09:37,651 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-11 12:09:39,393 - ERROR - No image file part in the request
+2025-03-11 12:09:39,394 - INFO - 127.0.0.1 - - [11/Mar/2025 12:09:39] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-11 12:09:40,507 - ERROR - No image file part in the request
+2025-03-11 12:09:40,508 - INFO - 127.0.0.1 - - [11/Mar/2025 12:09:40] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-11 12:10:07,506 - DEBUG - Creating converter from 3 to 5
+2025-03-11 12:10:07,616 - INFO -  * Restarting with stat
+2025-03-11 12:10:12,316 - DEBUG - Creating converter from 3 to 5
+2025-03-11 12:10:12,431 - WARNING -  * Debugger is active!
+2025-03-11 12:10:12,444 - INFO -  * Debugger PIN: 703-285-473
+2025-03-11 12:10:16,721 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-03-11 12:10:25,660 - ERROR - No image file part in the request
+2025-03-11 12:10:25,661 - INFO - 127.0.0.1 - - [11/Mar/2025 12:10:25] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-11 12:10:54,073 - ERROR - No image file part in the request
+2025-03-11 12:10:54,074 - INFO - 127.0.0.1 - - [11/Mar/2025 12:10:54] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-11 12:10:54,829 - ERROR - No image file part in the request
+2025-03-11 12:10:54,830 - INFO - 127.0.0.1 - - [11/Mar/2025 12:10:54] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-11 12:10:55,064 - ERROR - No image file part in the request
+2025-03-11 12:10:55,065 - INFO - 127.0.0.1 - - [11/Mar/2025 12:10:55] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-11 12:11:54,004 - ERROR - No image file part in the request
+2025-03-11 12:11:54,005 - INFO - 127.0.0.1 - - [11/Mar/2025 12:11:54] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2025-03-11 12:11:54,678 - ERROR - No image file part in the request
+2025-03-11 12:11:54,678 - INFO - 127.0.0.1 - - [11/Mar/2025 12:11:54] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
